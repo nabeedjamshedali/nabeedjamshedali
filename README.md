@@ -1,25 +1,129 @@
-<h1 align="center">Hi 👋, I'm Nabeed Jamshed</h1>
-<h3 align="center">AI Engineer | Backend Developer | Building Scalable ML & LLM Systems</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<h1 align="center">Hi, I'm Nabeed Jamshed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeedjamshedali&label=Profile%20views&color=0e75b6&style=flat" alt="nabeedjamshedali" /> </p>
+<h3 align="center">
+AI & Backend Engineer | Production AI Systems | Agentic Workflows
+</h3>
 
--  I’m currently learning **AI Agents & Automation**
-
--  How to reach me **nabeedjamshed@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nabeed-jamshed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabeed-jamshed/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nabeedali786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nabeedali786/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/nabeedjamshedal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/nabeedjamshedal1" height="30" width="40" /></a>
+<p align="center">
+I build production-grade AI applications, backend systems, and agentic workflows with a focus on reliability, scalability, and real-world deployment.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:nabeedjamshed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nabeedjamshed%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nabeed-jamshed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nabeed%20Jamshed-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nabeedjamshedali&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeedjamshedali&show_icons=true&locale=en&layout=compact" alt="nabeedjamshedali" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabeedjamshedali&show_icons=true&locale=en" alt="nabeedjamshedali" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeedjamshedali&" alt="nabeedjamshedali" /></p>
+- AI & Backend Engineer building **production AI applications and scalable backend systems**
+- Working with **LLMs, RAG, agentic workflows, APIs, and AI integrations**
+- Backend development with **Python, FastAPI, .NET, PostgreSQL, Redis, and MySQL**
+- Building and deploying systems using **Docker, AWS, Azure, Kubernetes, and Nginx**
+- Currently exploring **reliable agentic systems, LLM evaluation, and production AI infrastructure**
+- Interested in turning AI prototypes into **reliable, observable, production-ready systems**
+
+---
+
+## Tech Stack
+
+### AI & LLM Systems
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-Production_AI-412991?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-005571?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangGraph-Agentic_Workflows-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/pgvector-Vector_Search-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,dotnet,cs,postgres,mysql,redis" alt="Backend Technologies" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,linux,git" alt="Cloud and Infrastructure" />
+</p>
+
+### Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine Learning Technologies" />
+</p>
+
+---
+
+## Selected Engineering Work
+
+### Production AI & RAG Systems
+
+Building AI applications that combine **LLMs, retrieval, agentic workflows, APIs, vector search, caching, and production backend infrastructure**.
+
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `Redis` `Azure OpenAI`
+
+### LLM-Generated Kubernetes Configuration Analysis
+
+Analyzing **human-generated vs. LLM-generated Kubernetes configurations** for reliability and security using automated validation, security scanning, and deployment checks.
+
+`Kubernetes` `Kubeconform` `Kubescape` `Docker` `LLM Evaluation`
+
+### AI Workplace Assistant
+
+Exploring an approval-first AI assistant that can retrieve organizational context from systems such as **Jira and Slack** and assist with project-related workflows.
+
+`Agentic AI` `RAG` `Jira` `Slack` `Integrations`
+
+### AI-Assisted Codebase Analysis
+
+Building workflows for analyzing codebases for **architecture issues, database design, security risks, and prioritized engineering improvements**.
+
+`AI Agents` `Backend Engineering` `Security` `Code Analysis`
+
+---
+
+## Engineering Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-333333?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-333333?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-333333?style=flat-square" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Production_AI-333333?style=flat-square" alt="Production AI" />
+  <img src="https://img.shields.io/badge/Backend_Architecture-333333?style=flat-square" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/AI_Reliability-333333?style=flat-square" alt="AI Reliability" />
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-333333?style=flat-square" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/Observability-333333?style=flat-square" alt="Observability" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nabeed-jamshed/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/nabeedali786/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/nabeedjamshedal1" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank" height="40" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building AI systems that work beyond the demo.</b>
+</p>
