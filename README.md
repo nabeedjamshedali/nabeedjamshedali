@@ -13,7 +13,7 @@ I build production-grade AI applications, backend systems, and agentic workflows
     <img src="https://img.shields.io/badge/Email-nabeedjamshed%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nabeed-jamshed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nabeed%20Jamshed-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Nabeed%20Ali-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nabeedjamshedali&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
