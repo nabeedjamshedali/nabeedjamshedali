@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nabeed Jamshed</h1>
+<h1 align="center">Hi, I'm Nabeed Ali</h1>
 
 <h3 align="center">
 AI & Backend Engineer | Production AI Systems | Agentic Workflows
